@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>$id$</id>
+    <version>$version$</version>
+    <title>$title$</title>
+    <authors>jiangsimpler</authors>
+    <owners>jiangsimpler</owners>
+    <licenseUrl>http://www.apache.org/licenses/LICENSE-2.0.htm</licenseUrl>
+    <projectUrl>https://github.com/simplerjiang/AutoSizeFormClass</projectUrl>
+    <iconUrl>https://github.com/simplerjiang/MyData/blob/master/black_cat_128px_1179096_easyicon.net.ico</iconUrl>
+    <requireLicenseAcceptance>true</requireLicenseAcceptance>
+    <description>Winform自适应控件类，简单两步即可完成</description>
+    <releaseNotes>Winform自适应控件类，简单两步即可完成，详细内容请访问项目Url</releaseNotes>
+    <copyright>Copyright 2019</copyright>
+    <tags>Winform C# .net4.5</tags>
+  </metadata>
+</package>

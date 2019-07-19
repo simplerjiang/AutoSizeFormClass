@@ -3,3 +3,9 @@ C:\Users\123\source\repos\GetAliMAMADATA\AutoSizeFormClass\bin\Debug\AutoSizeFor
 C:\Users\123\source\repos\GetAliMAMADATA\AutoSizeFormClass\bin\Debug\AutoSizeFormClass.pdb
 C:\Users\123\source\repos\GetAliMAMADATA\AutoSizeFormClass\obj\Debug\AutoSizeFormClass.dll
 C:\Users\123\source\repos\GetAliMAMADATA\AutoSizeFormClass\obj\Debug\AutoSizeFormClass.pdb
+C:\Users\123\source\repos\AutoSizeFormClassGitHub\AutoSizeFormClass\obj\Debug\AutoSizeFormClass.csprojAssemblyReference.cache
+C:\Users\123\source\repos\AutoSizeFormClassGitHub\AutoSizeFormClass\obj\Debug\AutoSizeFormClass.csproj.CoreCompileInputs.cache
+C:\Users\123\source\repos\AutoSizeFormClassGitHub\AutoSizeFormClass\obj\Debug\AutoSizeFormClass.dll
+C:\Users\123\source\repos\AutoSizeFormClassGitHub\AutoSizeFormClass\obj\Debug\AutoSizeFormClass.pdb
+C:\Users\123\source\repos\AutoSizeFormClassGitHub\AutoSizeFormClass\bin\Debug\AutoSizeFormClass.dll
+C:\Users\123\source\repos\AutoSizeFormClassGitHub\AutoSizeFormClass\bin\Debug\AutoSizeFormClass.pdb

@@ -1,9 +1,11 @@
 # AutoSizeFormClass
 Winform控件自适应
 
+本项目已迁往 https://github.com/simplerjiang/Simplerjiang.WinFormAutoSize
+
 ---
 
-###使用方法：
+### 使用方法：
 1.项目引入AutoSizeFormClass.dll
 
 2.Form中添加即可
